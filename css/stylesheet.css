@@ -1,3 +1,13 @@
 h1 {
     color: aqua;
 }
+
+#picture_tab {
+    color: black;
+    align-items: left;
+}
+
+#picture_tab.hover {
+    color: brown;
+    fill: coral;
+}
