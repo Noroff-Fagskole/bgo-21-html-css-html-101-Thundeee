@@ -7,7 +7,7 @@ h1 {
     align-items: left;
 }
 
-#picture_tab.hover {
+#picture_tab:hover {
     color: brown;
     fill: coral;
 }
